@@ -26,7 +26,9 @@ Command used:
 nslookup scanme.nmap.org
 Result:
 •	Server: 192.168.100.1 
-•	Domain resolved to IP: 45.33.32.156 
+•	Domain resolved to IP: 45.33.32.156
+<img width="918" height="390" alt="Screenshot 2026-05-08 180254" src="https://github.com/user-attachments/assets/78f30d4a-3ad8-4f49-becc-9b97d6722237" />
+
  
 •	nslookup output showing domain → IP resolution 
 ________________________________________
@@ -37,6 +39,8 @@ Input given:
 Target IP: 192.168.100.1
 Start Port: 20
 End Port: 100
+<img width="868" height="170" alt="image" src="https://github.com/user-attachments/assets/c1695e69-46db-4c42-8023-aa87c55737c6" />
+
  
 ________________________________________
 5. Results
@@ -48,10 +52,13 @@ o	🔓 Port 80 (HTTP)
 output:
 [CLOSED] 20-52
 [OPEN] 53
+<img width="794" height="791" alt="image" src="https://github.com/user-attachments/assets/7963a26d-aa65-4772-87d1-1e5df9d576bb" />
+
 [CLOSED] 54-79
 [OPEN] 80
 [CLOSED] 81-100
- 
+ <img width="1141" height="793" alt="image" src="https://github.com/user-attachments/assets/b625774d-c281-420f-b082-071c777b0ad1" />
+
  
 ________________________________________
 6. Observations
@@ -60,7 +67,6 @@ ________________________________________
 •	Most other ports were closed or filtered. 
 •	Scanner successfully detected open services on target host. 
 ________________________________________
-Source Code Port_Scanner.py:
  
 
 Task 2 Report
