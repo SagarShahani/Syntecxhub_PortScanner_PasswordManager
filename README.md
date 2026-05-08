@@ -112,17 +112,9 @@ ________________________________________
 ✔ Program exits safely
 ________________________________________
 6. Screenshots 
-Program Start
- 
-________________________________________
-Add Entry
- ________________________________________
-View Entry
- ________________________________________
-Delete Entry
- ________________________________________
-Empty Vault
- ________________________________________
+<img width="1878" height="783" alt="image" src="https://github.com/user-attachments/assets/949a5c47-6133-4588-bca0-380d43e68f55" />
+
+
 7. Security Concept Used
 •	Uses Fernet symmetric encryption 
 •	Data stored in encrypted file (vault.enc) 
